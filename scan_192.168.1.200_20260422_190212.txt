@@ -1,0 +1,14 @@
+Port Scan Report
+========================================
+Target   : 192.168.1.200
+IP       : 192.168.1.200
+Range    : 1 - 1024
+Date     : 2026-04-22 19:02:12
+Duration : 0.24 seconds
+========================================
+
+[OPEN] Port 80 — http
+[OPEN] Port 250 — unknown
+[OPEN] Port 443 — https
+[OPEN] Port 515 — printer
+[OPEN] Port 631 — ipp

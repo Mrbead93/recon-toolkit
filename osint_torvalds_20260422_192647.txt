@@ -1,0 +1,33 @@
+OSINT Report
+=============================================
+Target    : torvalds
+Date      : 2026-04-22 19:26:47
+Found on  : 4/5 platforms
+=============================================
+
+[ PYPI ]
+  url: https://pypi.org/user/torvalds/
+
+[ REDDIT ]
+  name: torvalds
+  karma: 3038
+  created: 2011-10-27
+  url: https://reddit.com/u/torvalds
+
+[ GITHUB ]
+  name: Linus Torvalds
+  bio: None
+  location: Portland, OR
+  repos: 11
+  followers: 298743
+  created: 2011-09-03
+  url: https://github.com/torvalds
+
+[ HACKERNEWS ]
+  NOT FOUND
+
+[ NPM ]
+  total: 1
+  packages: ['@torvalds/range_list']
+  url: https://www.npmjs.com/~torvalds
+

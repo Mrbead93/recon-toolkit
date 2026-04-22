@@ -1,0 +1,11 @@
+Port Scan Report
+========================================
+Target   : scanme.nmap.org
+IP       : 45.33.32.156
+Range    : 1 - 1024
+Date     : 2026-04-22 19:01:02
+Duration : 1.66 seconds
+========================================
+
+[OPEN] Port 22 — ssh
+[OPEN] Port 80 — http
