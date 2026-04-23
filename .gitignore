@@ -2,3 +2,5 @@
 __pycache__/
 *.pyc
 reconx/reports/
+reconx/reports/
+*.txt
